@@ -1,1 +1,1 @@
-# simplembt-example
+# model based testing - exercises
